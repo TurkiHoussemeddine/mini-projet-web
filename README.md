@@ -25,7 +25,10 @@ Git est un système de contrôle de version distribué gratuit et open source co
 GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
 
  - VScode : 
-Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS . <br><br>
+Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS . 
+
+ - Balsamiq :
+Balsamiq est l’éditeur du produit Balsamiq Mockups, un outil permettant de créer facilement des prototypes d’IHM électronique.<br><br>
 
 
 ## Table des matières :
