@@ -46,8 +46,10 @@ après un drag and drop sur un astronaute nous restons dans la même page mais a
 
 ### On modif :
 ![156598492_262408895448053_4966746815989906252_n](https://user-images.githubusercontent.com/78099799/109582774-0d1a2b00-7aff-11eb-967b-bf9ae3b0e84b.png)
+
 lors d'un clique sur l'icône d'édition (présent dans la barre d'équipage de l'expédition prochaine) on sera redirigé vers la page des modifications des informations de l'astronaute déja affiché. Après les changements , si on veut les valider on clique simplement sur le bouton de confirmation , sinon on clique sur reset et tous les modifications seront annulées .
 
 ### On insert : 
 ![156375515_340736530615653_5268041357981832423_n](https://user-images.githubusercontent.com/78099799/109582824-21f6be80-7aff-11eb-95f7-4a9557f388a9.png)
+
 la page insert qui contient un formulaire contenant plusieurs champs rempli par l'administrateur permettant l'ajout d'un candidat a la liste des astronautes disponibles qui devient ensuite prét a être ajouté aux membres choisis pour la prochaine expedition (via la barre d'équipage de l'expédition prochaine) . Ii on veut valider on clique simplement sur le bouton de confirmation , sinon on clique sur reset et tous les champs deviennent vide de nouveau . 2 boutons de navigation sont aussi présent en bas de page l'un pour retour a l'accueil et l'autre pour retour en haut de page .
