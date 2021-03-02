@@ -31,6 +31,7 @@ Lorsqu'on clique sur un astronaute le bouton d'ajout des candidats présent dans
 
 ### On Delete :
 ![155829987_3050333505185567_5922024410456828164_n](https://user-images.githubusercontent.com/78099799/109582676-da703280-7afe-11eb-98e2-131a6d88c2da.png)
+
 Un message temporaire de validation confirmant la suppression d'un astronaute de la liste d'équipage de l'expédition prochaine .
 
 ### On add :
